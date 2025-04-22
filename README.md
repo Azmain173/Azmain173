@@ -34,3 +34,7 @@
 ---
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azmain173&theme=default)
+[![Azmain's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azmain173&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![trophy](https://github-profile-trophy.vercel.app/?username=Azmain173&theme=flat)
+
